@@ -1,4 +1,4 @@
-## fast, async, multithreaded bomber
+## Fast, async, multithreaded bomber
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-### project structure:
+### Project structure:
 
 ```go
 ├── cmd
@@ -25,33 +25,33 @@
 └── README.md
 ```
 
-## installation
+## Installation
 
 ```shell
 git clone https://github.com/kenjitheman/tomaranai_bomber
 ```
 
-## usage
+## Usage
 
-- run it:
+- Run it:
 
 ```shell
 cd cmd
 go run main.go
 ```
 
-- or run it using docker:
+- Or run it using docker:
 
 ```shell
 docker build -t your_image_name .
 docker run -d -p 8080:80 your_image_name
 ```
 
-## contributing
+## Contributing
 
-- pull requests are welcome, for major changes, please open an issue first to
-  discuss what you would like to change
+- Pull requests are welcome, for major changes, please open an issue first to
+  discuss what you would like to change.
 
-## license
+## License
 
 - [MIT](https://choosealicense.com/licenses/mit/)
