@@ -27,7 +27,7 @@
 
 ## Installation
 
-```shell
+```sh
 git clone https://github.com/kenjitheman/tomaranai_bomber
 ```
 
@@ -35,14 +35,14 @@ git clone https://github.com/kenjitheman/tomaranai_bomber
 
 - Run it:
 
-```shell
+```sh
 cd cmd
 go run main.go
 ```
 
 - Or run it using docker:
 
-```shell
+```sh
 docker build -t your_image_name .
 docker run -d -p 8080:80 your_image_name
 ```
