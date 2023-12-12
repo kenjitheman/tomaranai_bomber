@@ -13,6 +13,8 @@
 ### Project structure:
 
 ```go
+tomaranai_bomber
+│
 ├── cmd
 │   └── main.go
 ├── core
