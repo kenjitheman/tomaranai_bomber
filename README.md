@@ -1,29 +1,4 @@
-## Fast, async, multithreaded bomber
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="200" alt="go logo"  />
-</div>
-
-###
-
-### Project structure:
-
-```go
-tomaranai_bomber
-│
-├── cmd
-│   └── main.go
-├── core
-│   ├── email_bomber.go
-│   ├── generator.go
-│   └── sms_bomber.go
-├── Dockerfile
-├── go.mod
-├── LICENSE
-└── README.md
-```
+# Fast, async, multithreaded bomber
 
 ## Installation
 
