@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/kenjitheman/tomaranai_bomber
+git clone https://github.com/btwkenji/tomaranai_bomber
 ```
 
 ## Usage

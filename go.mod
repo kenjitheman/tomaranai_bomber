@@ -1,3 +1,3 @@
-module github.com/kenjitheman/tomaranai_bomber
+module github.com/btwkenji/tomaranai_bomber
 
 go 1.20
