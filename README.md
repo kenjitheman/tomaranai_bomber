@@ -3,7 +3,7 @@
 ## Installation
 
 ```sh
-git clone https://github.com/btwkenji/tomaranai_bomber
+git clone https://github.com/kenjitheman/tomaranai_bomber
 ```
 
 ## Usage
@@ -29,4 +29,4 @@ docker run -d -p 8080:80 your_image_name
 
 ## License
 
-- [MIT](https://choosealicense.com/licenses/mit/)
+- [MIT](./LICENSE)
